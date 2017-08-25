@@ -23,7 +23,7 @@ namespace CustomConnectors_1.Controllers
         [SwaggerResponse(HttpStatusCode.NotFound)]
         public string Get(int id)
         {
-            return "value";
+            return string.Format("this is the value {0} got from trigger", id);
         }
 
         // POST api/values
