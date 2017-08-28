@@ -13,6 +13,8 @@ Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "HybridWithSB", "HybridWithS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBClient-1", "SBClient-1\SBClient-1.csproj", "{D0816DC5-26B0-4C6F-8264-D009A768EE3E}"
 EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "EnterpriseIntegrationPackSample-1", "EnterpriseIntegrationPackSample-1\EnterpriseIntegrationPackSample-1.deployproj", "{16AB5CD6-6798-4A21-B412-9681C1C4A3F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D0816DC5-26B0-4C6F-8264-D009A768EE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0816DC5-26B0-4C6F-8264-D009A768EE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0816DC5-26B0-4C6F-8264-D009A768EE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16AB5CD6-6798-4A21-B412-9681C1C4A3F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AB5CD6-6798-4A21-B412-9681C1C4A3F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AB5CD6-6798-4A21-B412-9681C1C4A3F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AB5CD6-6798-4A21-B412-9681C1C4A3F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
