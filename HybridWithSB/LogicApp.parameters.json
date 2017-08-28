@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "logicAppName": {
+      "value": "Azure-iPass-Solution-SBConnectors-1"
+    },
+    "servicebus_1_connectionString": {
+      "value": "Endpoint=sb://azure-ipass-solution-servicebus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=51FKyKqSE5mWH79NcozZHumg5utfHGYR/iG+Ju8UdGU="
+    }
+  }
+}
